@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like to play with some plugins or scripts sometimes and fix my own and others' bugs.
+keszme keszme.
 
 
 # 💻 Tech Stack:
